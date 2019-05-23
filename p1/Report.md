@@ -21,6 +21,32 @@ The source code in `src/` folder is laid out as follows:
 - `dqn_agent.py` - defines the agent
 - `monitor.py` - defines how the agent and the environment interact with each other
 
+### Learning Algorithm
+
+Reinforcement learning tends to to unstable when neural networks are used to represent the action values.
+To overcome these instabilities the following two techniques are used in the project:
+- Experience Replay
+- Fixed Q-Targets
+
+**Experience Replay**
+
+When the agent interacts with the environment, the sequence of experience tuples (state, action, reward, next state, flag to indicate if episode is completed) is stored in the 
+replay buffer (the buffer size is controlled by a hyperparameter). Experience replay tuples sampled from the buffer at random are used to prevent action values from oscillating or diverging catastrophically.
+The tuples are gradually added to the buffer as the agent is interacting with the environment.
+
+Replaying experience samples from the replay buffer helps to break harmful correlations, learn from
+individual tuples multiple times, recall rare occurrences, and in general make better use of gathered experience.
+
+**Fixed Q-Targets**
+
+In the fixed Q-targets framework the deep Q-learning algorithm uses two separate neural networks with identical architectures (primary and target networks).
+The weights of the primary network are updated at every timestep, but weights of the target network are updated less often (after every n timesteps controlled by a hyperparameter).
+The temporal difference targets (TD targets) of an action are calculated based on the values stored in the target network.
+As these weights are updated less frequently we are able to avoid a form of harmful correlation whereby we shift the parameters of the network based
+on a constantly moving target.
+
+
+
 
 ### Hyperparameters
 
