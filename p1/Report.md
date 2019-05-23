@@ -23,7 +23,7 @@ The source code in `src/` folder is laid out as follows:
 
 ### Learning Algorithm
 
-Reinforcement learning tends to to unstable when neural networks are used to represent the action values.
+Reinforcement learning tends to be unstable when neural networks are used to represent the action values.
 To overcome these instabilities the following two techniques are used in the project:
 - Experience Replay
 - Fixed Q-Targets
