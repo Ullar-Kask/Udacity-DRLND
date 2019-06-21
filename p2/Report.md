@@ -83,20 +83,21 @@ Also a scores plot is created in the file `scores.png`.
 
 ### Training process
 
-  Episode 1/500 || Average score 0.61
-  Episode 2/500 || Average score 0.59
-  Episode 3/500 || Average score 0.60
-  Episode 4/500 || Average score 0.64
-  Episode 5/500 || Average score 0.78
-  Episode 6/500 || Average score 0.89
-  Episode 7/500 || Average score 1.07
-  Episode 8/500 || Average score 1.22
-  Episode 9/500 || Average score 1.33
-  Episode 10/500 || Average score 1.57
-  Episode 11/500 || Average score 1.80
-  Episode 12/500 || Average score 2.28
-  Episode 13/500 || Average score 3.00
-  Episode 14/500 || Average score 3.66
+    Episode 1/500 || Average score 0.61
+    Episode 2/500 || Average score 0.59
+    Episode 3/500 || Average score 0.60
+    Episode 4/500 || Average score 0.64
+    Episode 5/500 || Average score 0.78
+    Episode 6/500 || Average score 0.89
+    Episode 7/500 || Average score 1.07
+    Episode 8/500 || Average score 1.22
+    Episode 9/500 || Average score 1.33
+    Episode 10/500 || Average score 1.57
+    Episode 11/500 || Average score 1.80
+    Episode 12/500 || Average score 2.28
+    Episode 13/500 || Average score 3.00
+    Episode 14/500 || Average score 3.66
+
 Episode 15/500 || Average score 4.65
 Episode 16/500 || Average score 5.95
 Episode 17/500 || Average score 7.24
