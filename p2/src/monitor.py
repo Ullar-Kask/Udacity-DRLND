@@ -66,7 +66,7 @@ def train(env, agent, num_episodes=500, max_t=1000, learn_step=20, learn_batch=1
             states = next_states
             
             if t%learn_step == 0:
-                for j in range(learn_batch):
+                for _ in range(learn_batch):
                     agent.learn()
             
             if np.any(dones):
