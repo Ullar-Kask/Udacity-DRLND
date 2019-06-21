@@ -65,7 +65,7 @@ individual tuples multiple times, recall rare occurrences, and in general make b
 Some observations:
 1. Batch size should be relatively large for faster convergence, as is `1024` in our case.
 2. Equal learning rates (of actor and critic networks) seem to work better.
-3. The training process is susceptible to changes of the order of `1e-6` in the learning rates, so it is easy to overshoot (or undershoot).
+3. The training process is susceptible to changes of the order of `1e-6` in the learning rates, so it is easy to overshoot.
 
 
 ### Running
@@ -75,7 +75,7 @@ To start training enter on the command line:
 $ python main.py
 ```
 
-The training should be completed after 100 episodes with the final average score of +33.12.
+The training is completed after 100 episodes with the final average score of +33.12.
 (The average score of +30.13 is achieved after episode 64, but strictly speaking it's the average score of 64 episodes, so the training continues until the episode 100).
 
 After the training is completed files `weights_actor.pt` and `weights_critic.pt` are created automatically that contains the weights of the trained actor and critic networks respectively.
