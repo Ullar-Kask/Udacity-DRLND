@@ -97,93 +97,92 @@ Also a scores plot is created in the file `scores.png`.
     Episode 12/500 || Average score 2.28
     Episode 13/500 || Average score 3.00
     Episode 14/500 || Average score 3.66
-
-Episode 15/500 || Average score 4.65
-Episode 16/500 || Average score 5.95
-Episode 17/500 || Average score 7.24
-Episode 18/500 || Average score 8.61
-Episode 19/500 || Average score 10.10
-Episode 20/500 || Average score 11.38
-Episode 21/500 || Average score 12.63
-Episode 22/500 || Average score 13.77
-Episode 23/500 || Average score 14.85
-Episode 24/500 || Average score 15.85
-Episode 25/500 || Average score 16.77
-Episode 26/500 || Average score 17.63
-Episode 27/500 || Average score 18.43
-Episode 28/500 || Average score 19.16
-Episode 29/500 || Average score 19.83
-Episode 30/500 || Average score 20.47
-Episode 31/500 || Average score 21.06
-Episode 32/500 || Average score 21.62
-Episode 33/500 || Average score 22.15
-Episode 34/500 || Average score 22.62
-Episode 35/500 || Average score 23.08
-Episode 36/500 || Average score 23.51
-Episode 37/500 || Average score 23.92
-Episode 38/500 || Average score 24.31
-Episode 39/500 || Average score 24.68
-Episode 40/500 || Average score 25.02
-Episode 41/500 || Average score 25.35
-Episode 42/500 || Average score 25.68
-Episode 43/500 || Average score 25.98
-Episode 44/500 || Average score 26.26
-Episode 45/500 || Average score 26.54
-Episode 46/500 || Average score 26.81
-Episode 47/500 || Average score 27.06
-Episode 48/500 || Average score 27.30
-Episode 49/500 || Average score 27.51
-Episode 50/500 || Average score 27.73
-Episode 51/500 || Average score 27.95
-Episode 52/500 || Average score 28.16
-Episode 53/500 || Average score 28.35
-Episode 54/500 || Average score 28.54
-Episode 55/500 || Average score 28.71
-Episode 56/500 || Average score 28.89
-Episode 57/500 || Average score 29.05
-Episode 58/500 || Average score 29.22
-Episode 59/500 || Average score 29.38
-Episode 60/500 || Average score 29.54
-Episode 61/500 || Average score 29.69
-Episode 62/500 || Average score 29.84
-Episode 63/500 || Average score 29.98
-Episode 64/500 || Average score 30.13
-Episode 65/500 || Average score 30.27
-Episode 66/500 || Average score 30.40
-Episode 67/500 || Average score 30.52
-Episode 68/500 || Average score 30.64
-Episode 69/500 || Average score 30.76
-Episode 70/500 || Average score 30.88
-Episode 71/500 || Average score 30.99
-Episode 72/500 || Average score 31.11
-Episode 73/500 || Average score 31.21
-Episode 74/500 || Average score 31.32
-Episode 75/500 || Average score 31.40
-Episode 76/500 || Average score 31.49
-Episode 77/500 || Average score 31.58
-Episode 78/500 || Average score 31.66
-Episode 79/500 || Average score 31.75
-Episode 80/500 || Average score 31.84
-Episode 81/500 || Average score 31.91
-Episode 82/500 || Average score 31.98
-Episode 83/500 || Average score 32.04
-Episode 84/500 || Average score 32.11
-Episode 85/500 || Average score 32.19
-Episode 86/500 || Average score 32.26
-Episode 87/500 || Average score 32.33
-Episode 88/500 || Average score 32.40
-Episode 89/500 || Average score 32.47
-Episode 90/500 || Average score 32.53
-Episode 91/500 || Average score 32.60
-Episode 92/500 || Average score 32.66
-Episode 93/500 || Average score 32.72
-Episode 94/500 || Average score 32.78
-Episode 95/500 || Average score 32.83
-Episode 96/500 || Average score 32.89
-Episode 97/500 || Average score 32.95
-Episode 98/500 || Average score 33.00
-Episode 99/500 || Average score 33.06
-Episode 100/500 || Average score 33.12
+    Episode 15/500 || Average score 4.65
+    Episode 16/500 || Average score 5.95
+    Episode 17/500 || Average score 7.24
+    Episode 18/500 || Average score 8.61
+    Episode 19/500 || Average score 10.10
+    Episode 20/500 || Average score 11.38
+    Episode 21/500 || Average score 12.63
+    Episode 22/500 || Average score 13.77
+    Episode 23/500 || Average score 14.85
+    Episode 24/500 || Average score 15.85
+    Episode 25/500 || Average score 16.77
+    Episode 26/500 || Average score 17.63
+    Episode 27/500 || Average score 18.43
+    Episode 28/500 || Average score 19.16
+    Episode 29/500 || Average score 19.83
+    Episode 30/500 || Average score 20.47
+    Episode 31/500 || Average score 21.06
+    Episode 32/500 || Average score 21.62
+    Episode 33/500 || Average score 22.15
+    Episode 34/500 || Average score 22.62
+    Episode 35/500 || Average score 23.08
+    Episode 36/500 || Average score 23.51
+    Episode 37/500 || Average score 23.92
+    Episode 38/500 || Average score 24.31
+    Episode 39/500 || Average score 24.68
+    Episode 40/500 || Average score 25.02
+    Episode 41/500 || Average score 25.35
+    Episode 42/500 || Average score 25.68
+    Episode 43/500 || Average score 25.98
+    Episode 44/500 || Average score 26.26
+    Episode 45/500 || Average score 26.54
+    Episode 46/500 || Average score 26.81
+    Episode 47/500 || Average score 27.06
+    Episode 48/500 || Average score 27.30
+    Episode 49/500 || Average score 27.51
+    Episode 50/500 || Average score 27.73
+    Episode 51/500 || Average score 27.95
+    Episode 52/500 || Average score 28.16
+    Episode 53/500 || Average score 28.35
+    Episode 54/500 || Average score 28.54
+    Episode 55/500 || Average score 28.71
+    Episode 56/500 || Average score 28.89
+    Episode 57/500 || Average score 29.05
+    Episode 58/500 || Average score 29.22
+    Episode 59/500 || Average score 29.38
+    Episode 60/500 || Average score 29.54
+    Episode 61/500 || Average score 29.69
+    Episode 62/500 || Average score 29.84
+    Episode 63/500 || Average score 29.98
+    Episode 64/500 || Average score 30.13
+    Episode 65/500 || Average score 30.27
+    Episode 66/500 || Average score 30.40
+    Episode 67/500 || Average score 30.52
+    Episode 68/500 || Average score 30.64
+    Episode 69/500 || Average score 30.76
+    Episode 70/500 || Average score 30.88
+    Episode 71/500 || Average score 30.99
+    Episode 72/500 || Average score 31.11
+    Episode 73/500 || Average score 31.21
+    Episode 74/500 || Average score 31.32
+    Episode 75/500 || Average score 31.40
+    Episode 76/500 || Average score 31.49
+    Episode 77/500 || Average score 31.58
+    Episode 78/500 || Average score 31.66
+    Episode 79/500 || Average score 31.75
+    Episode 80/500 || Average score 31.84
+    Episode 81/500 || Average score 31.91
+    Episode 82/500 || Average score 31.98
+    Episode 83/500 || Average score 32.04
+    Episode 84/500 || Average score 32.11
+    Episode 85/500 || Average score 32.19
+    Episode 86/500 || Average score 32.26
+    Episode 87/500 || Average score 32.33
+    Episode 88/500 || Average score 32.40
+    Episode 89/500 || Average score 32.47
+    Episode 90/500 || Average score 32.53
+    Episode 91/500 || Average score 32.60
+    Episode 92/500 || Average score 32.66
+    Episode 93/500 || Average score 32.72
+    Episode 94/500 || Average score 32.78
+    Episode 95/500 || Average score 32.83
+    Episode 96/500 || Average score 32.89
+    Episode 97/500 || Average score 32.95
+    Episode 98/500 || Average score 33.00
+    Episode 99/500 || Average score 33.06
+    Episode 100/500 || Average score 33.12
 
 
 ### Ideas for Future Work
