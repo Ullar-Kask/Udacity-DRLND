@@ -1,3 +1,7 @@
+[//]: # (Image References)
+
+[image1]: https://github.com/Ullar-Kask/Udacity-DRLND/blob/master/p3/scores.png?raw=true "Scores plot"
+
 # Project Report
 
 ### Overview
@@ -78,12 +82,18 @@ To start training enter on the command line:
 $ python main.py
 ```
 
+### Results
+
 The training is completed after 615 episodes with the final average score of +0.52.
 
 After the training is completed the files `player1_actor.pt`, `player2_actor.pt`, `player1_critic.pt` and `player2_critic.pt` are created automatically in the subfolder `trained_weights/`.
 The files contain the weights of the trained actor and critic networks.
 
-Also a scores plot is created in the file `scores.png`.
+The scores plot of the solution:
+
+![Scores Plot][image1]
+
+The plot is saved to the file `scores.png`.
 
 ### Training process
 
