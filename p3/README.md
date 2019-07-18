@@ -38,7 +38,7 @@ The environment is considered solved, when the average over 100 episodes of thos
 
 2. Place the file in the `src` folder and unzip (or decompress) it. 
 
-### Installing dependencies
+### Installing Dependencies
 
 To install project's dependencies run the following command in the project's main folder:
 ```sh
