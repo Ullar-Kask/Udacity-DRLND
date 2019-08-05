@@ -67,3 +67,7 @@ The program also plots and saves earned scores as `scores.png`.
 ===
 
 The application has been tested on AWS using instance type `p2.xlarge` and image `Deep Learning AMI (Ubuntu) Version 23.0`.
+
+===
+
+For a different implementation of the project please see [here](https://github.com/Ullar-Kask/TD3-PER/tree/master/Pytorch).
