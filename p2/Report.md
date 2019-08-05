@@ -190,3 +190,7 @@ Also a scores plot is created in the file `scores.png`.
 The neural network can be improved by implementing the following:
 - Prioritized Experience Replay
 - Instead of DDPG try a different network algorithm, e.g. [Soft Actor Critic](https://spinningup.openai.com/en/latest/algorithms/sac.html) (SAC)
+
+===
+
+*Update*: TD3 network algorithm with Prioritized Experience Replay buffer is implemented [here](https://github.com/Ullar-Kask/TD3-PER/tree/master/Pytorch).
